@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goulartjs
 - 👀 I’m interested in compartilhar e aprender novos projetos 
 - 🌱 I’m currently learning Javascript, Phyton 
-- 💞️ I’m looking to collaborate on no crescimento e conheceimento da àrea 
+- 💞️ I’m looking to collaborate  no crescimento e conheceimento da àrea 
 - 📫 How to reach me: https://www.linkedin.com/in/tamara-goulart-a5970723a/
 - ⚡ Fun fact: extremamente focada nos objetivos.
 
