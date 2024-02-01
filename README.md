@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Goulartjs
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in compartilhar e aprender novos projetos 
+- 🌱 I’m currently learning Javascript, Phyton 
+- 💞️ I’m looking to collaborate on no crescimento e conheceimento da àrea 
 - 📫 How to reach me: https://www.linkedin.com/in/tamara-goulart-a5970723a/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: extremamente focada nos objetivos.
 
 <!---
 Goulartjs/Goulartjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
